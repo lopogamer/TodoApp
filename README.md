@@ -26,7 +26,7 @@ A simple TODO App created using Python and Tkinter.
 2. Navigate to the project directory: 
     
     ```bash
-    cd TODO-App
+    cd TODOApp
     ```
 
 3. Run the application:
